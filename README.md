@@ -6,6 +6,7 @@
 - HTML, CSS, JavaScript, jquery
 
 ## Website
+https://jamiesteinbauer.github.io/work-scheduler/
 
 ## Screenshot
 
